@@ -1,6 +1,6 @@
 {
   "name": "keycloak-authenticate",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Authenticate against a Keycloak service",
   "main": "index.js",
   "scripts": {
