@@ -22,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/pandapaul/keycloak-authenticate/issues"
   },
-  "homepage": "https://github.com/pandapaul/keycloak-authenticate#readme"
+  "homepage": "https://github.com/pandapaul/keycloak-authenticate#readme",
+  "devDependencies": {
+    "standard": "^10.0.2",
+    "tap": "^10.3.2"
+  },
+  "dependencies": {
+    "superagent": "^3.5.2"
+  }
 }
