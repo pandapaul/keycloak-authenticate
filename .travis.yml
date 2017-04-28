@@ -8,4 +8,4 @@ services:
 
 before_install:
   - docker pull jboss/keycloak
-  - docker run -p 8080:8080 -e KEYCLOAK_USER=test -e KEYCLOAK_PASSWORD=test jboss/keycloak
+  - docker run -d -p 8080:8080 -e KEYCLOAK_USER=test -e KEYCLOAK_PASSWORD=test jboss/keycloak
