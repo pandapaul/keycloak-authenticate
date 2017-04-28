@@ -18,4 +18,4 @@ module.exports = ({
   username,
   password
 })
-.then(auth => auth.access_token)
+.then(res => res.body.access_token)
