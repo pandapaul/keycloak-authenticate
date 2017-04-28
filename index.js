@@ -4,7 +4,6 @@ module.exports = ({
   url = 'http://localhost:8080',
   realm = 'master',
   client = 'admin-cli',
-  grantType = 'password',
   clientSecret,
   username,
   password
@@ -13,7 +12,7 @@ module.exports = ({
 .type('form')
 .send({
   client_id: client,
-  grant_type: grantType,
+  grant_type: 'password',
   client_secret: clientSecret,
   username,
   password
