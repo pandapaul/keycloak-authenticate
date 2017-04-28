@@ -2,6 +2,8 @@
 
 > Authenticate against a [Keycloak](http://www.keycloak.org/) service
 
+[![Build Status](https://travis-ci.org/pandapaul/keycloak-authenticate.svg?branch=master)](https://travis-ci.org/pandapaul/keycloak-authenticate)
+
 
 ## Install
 
