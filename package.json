@@ -13,7 +13,11 @@
     "url": "git+https://github.com/pandapaul/keycloak-authenticate.git"
   },
   "keywords": [
+    "🐼",
     "keycloak",
+    "authenticate",
+    "authentication",
+    "auth",
     "access",
     "token"
   ],
